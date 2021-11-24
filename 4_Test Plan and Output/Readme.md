@@ -17,4 +17,10 @@
 
 # Output
 
+![7545](https://raw.githubusercontent.com/sparikshit/M1_Game_Quiz/main/4_Test%20Plan%20and%20Output/Screenshot%20(2).png)
 
+
+![9755](https://raw.githubusercontent.com/sparikshit/M1_Game_Quiz/main/4_Test%20Plan%20and%20Output/Screenshot%20(5).png)
+
+
+![2744](https://raw.githubusercontent.com/sparikshit/M1_Game_Quiz/main/4_Test%20Plan%20and%20Output/Screenshot%20(4).png)
